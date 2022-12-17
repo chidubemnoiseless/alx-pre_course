@@ -1,14 +1,2 @@
-
-ls
-[3~[3~[3~[3~[3~[A[C
-
-clear
-
-
-
-
-
-
-
-
-
+#!/bin/bash
+echo "The school is open!"
